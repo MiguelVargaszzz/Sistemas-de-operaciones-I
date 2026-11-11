@@ -1,0 +1,2 @@
+﻿Clientes (m),Antenas (n),Cota LP,Cota inferior usada,Solver: mejor costo,Solver: óptimo probado,Solver: tiempo máx. (s),GA: mejor,GA: promedio,GA: mediana,GA: peor,GA: desv. est.,Mejor solución conocida,GA mejor vs conocida (%),GA promedio vs conocida (%),GA mejor vs cota (%),Corridas GA <= mejor del solver,GA: tiempo prom. (s),GA: tiempo hasta su mejor (s),GA: generaciones prom.,Antenas en la mejor solución GA
+500,500,27859.9,30005.2,51509,False,300.18,48878,50362.8,50390.0,51490,551.6,48878,0.0,3.04,62.9,30/30,7.77,2.17,274.3,22

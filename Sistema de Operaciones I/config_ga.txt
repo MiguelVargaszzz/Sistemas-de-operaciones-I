@@ -1,0 +1,11 @@
+Parámetros del GA:
+  tam_pob = 100
+  generaciones = 1000
+  pc = 0.9
+  pm = 3/n = 0.00600
+  k_torneo = 3
+  elitismo = 2
+  paciencia = 200
+  p_inicial = 0.5
+  orden_drop = costo
+  evitar_duplicados = True

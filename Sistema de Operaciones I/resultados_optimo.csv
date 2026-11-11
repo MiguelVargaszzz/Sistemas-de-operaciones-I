@@ -1,0 +1,2 @@
+﻿Solver,Límite (s),Tiempo real (s),Estado,Mejor costo HiGHS,Mejor solución conocida,Origen mejor solución,Antenas,Cota LP,Cota inferior final,Gap (%),Óptimo probado
+HiGHS (SciPy 1.17.1),10800,10802.6,Time limit reached. (HiGHS Status 13: Time limit reached),49346,48878,GA pm=3/n semilla 12,22,27859.9,32427.0,33.66,False
